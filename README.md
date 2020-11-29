@@ -13,9 +13,45 @@
 [simple-reinforcement-learning-temporal-difference-learning](https://towardsdatascience.com/simple-reinforcement-learning-temporal-difference-learning-53d1b3263d79)<br>
 [distributed-deep-learning-pipelines-with-pyspark-and-keras](https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239)<br>
 []()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 
 # from ods@Slack
 [2020: Matthew Mahowald:  Playing TicTacToe with a DQN, redux](https://mahowald.github.io/pytorch-dqn/)<br>
+[github.com/yanji84/tic-tac-toe-rl](https://github.com/yanji84/tic-tac-toe-rl)<br>
+[github.com/abstractpaper/tictactoe-pytorch](https://github.com/abstractpaper/tictactoe-pytorch)<br>
+[2017: Arthur Juliani: Введение в обучение с подкреплением: от многорукого бандита до полноценного RL агента](https://habr.com/en/company/newprolab/blog/343834/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     echo "# RL" >> README.md
     git init
