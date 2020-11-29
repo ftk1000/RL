@@ -14,6 +14,8 @@
 [distributed-deep-learning-pipelines-with-pyspark-and-keras](https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239)<br>
 []()<br>
 
+# from ods@Slack
+[2020: Matthew Mahowald:  Playing TicTacToe with a DQN, redux](https://mahowald.github.io/pytorch-dqn/)<br>
 
     echo "# RL" >> README.md
     git init
