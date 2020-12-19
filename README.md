@@ -1,12 +1,9 @@
 # RL
 
-[Kaggle ref to Sutton's and Barton's book in PDF , HTML , and Py code](https://www.kaggle.com/c/google-football/discussion/187658)<br>
-[Py replication for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition) on GitHub](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
-
-
-[reinforcement-q-learning-scratch-python-openai-gym/](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)<br>
-
-[https://gym.openai.com/docs/](https://gym.openai.com/docs/)<br>
+* [Kaggle ref to Sutton's and Barton's book in PDF , HTML , and Py code](https://www.kaggle.com/c/google-football/discussion/187658)<br>
+* [Py replication for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition) on GitHub](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
+* [reinforcement-q-learning-scratch-python-openai-gym/](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)<br>
+* [https://gym.openai.com/docs/](https://gym.openai.com/docs/)<br>
 
 
 ## TD
@@ -25,10 +22,10 @@
 []()<br>
 
 # from ods@Slack
-[2020: Matthew Mahowald:  Playing TicTacToe with a DQN, redux](https://mahowald.github.io/pytorch-dqn/)<br>
-[github.com/yanji84/tic-tac-toe-rl](https://github.com/yanji84/tic-tac-toe-rl)<br>
-[github.com/abstractpaper/tictactoe-pytorch](https://github.com/abstractpaper/tictactoe-pytorch)<br>
-[2017: Arthur Juliani: Введение в обучение с подкреплением: от многорукого бандита до полноценного RL агента](https://habr.com/en/company/newprolab/blog/343834/)<br>
+* [2020: Matthew Mahowald:  Playing TicTacToe with a DQN, redux](https://mahowald.github.io/pytorch-dqn/)<br>
+* [github.com/yanji84/tic-tac-toe-rl](https://github.com/yanji84/tic-tac-toe-rl)<br>
+* [github.com/abstractpaper/tictactoe-pytorch](https://github.com/abstractpaper/tictactoe-pytorch)<br>
+* [2017: Arthur Juliani: Введение в обучение с подкреплением: от многорукого бандита до полноценного RL агента](https://habr.com/en/company/newprolab/blog/343834/)<br>
 []()<br>
 []()<br>
 []()<br>
