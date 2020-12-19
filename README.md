@@ -8,6 +8,12 @@
 
 [https://gym.openai.com/docs/](https://gym.openai.com/docs/)<br>
 
+
+## TD
+[TD Intro: In this article, we will be talking about TD(λ), which is a generic reinforcement learning method that unifies both Monte Carlo simulation and 1-step TD method.](https://towardsdatascience.com/reinforcement-learning-td-%CE%BB-introduction-686a5e4f4e60)<br>
+[]()<br>
+[]()<br>
+
 ## Andre Violante
 [simple-reinforcement-learning-q-learning](https://towardsdatascience.com/simple-reinforcement-learning-q-learning-fcddc4b6fe56)<br>
 [simple-reinforcement-learning-temporal-difference-learning](https://towardsdatascience.com/simple-reinforcement-learning-temporal-difference-learning-53d1b3263d79)<br>
