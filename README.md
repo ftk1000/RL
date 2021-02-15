@@ -6,6 +6,22 @@
 * [https://gym.openai.com/docs/](https://gym.openai.com/docs/)<br>
 
 
+## [Steve Brunton: RL: ML and Control Theory](https://www.youtube.com/watch?v=0MNVhXEX9to)
+     - Labels (reward per action) are extremely rare: semi-supervised learning: reward = time-delayed label.
+     - Complex optimization problem: requires lots of data (trial and error)
+     - \pi(s,a) = P(a|s)
+     - good to know VALUE of policy \pi in each state
+     - GOAL: optimize \pi(s,a) to maximize FUTURE REWARD
+     - Assume ENVIRONMENT = Markov Decision Process
+     - Q-Learning combines Value Function and Policy Learning
+     - Credit Assignment Process (Minsky ~1960)
+       -- Dense vs Sparse Reward
+       -- Sample Efficiency
+       -- Reward shaping (approximate intermidiate rewards)
+       
+      
+
+
 ## TD
 * [TD Intro: In this article, we will be talking about TD(λ), which is a generic reinforcement learning method that unifies both Monte Carlo simulation and 1-step TD method.](https://towardsdatascience.com/reinforcement-learning-td-%CE%BB-introduction-686a5e4f4e60)<br>
 []()<br>
