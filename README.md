@@ -1,3 +1,10 @@
+# RL in finance
+* [Watch "Reinforcement and mean-field games in algorithmic trading - Sebastian Jaimungal" on YouTube](https://youtu.be/F1bO2QvrAb8)<br>
+* [Watch "Reinforcement Learning for Trading Practical Examples and Lessons Learned by Dr. Tom Starke" on YouTube](https://youtu.be/c0gpgCyjTM8)<br>
+* []()<br>
+* []()<br>
+* []()<br>
+
 # RL
 
 * [Kaggle ref to Sutton's and Barton's book in PDF , HTML , and Py code](https://www.kaggle.com/c/google-football/discussion/187658)<br>
