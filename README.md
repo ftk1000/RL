@@ -2,7 +2,7 @@
 * [Watch "Reinforcement and mean-field games in algorithmic trading - Sebastian Jaimungal" on YouTube](https://youtu.be/F1bO2QvrAb8)<br>
 * [Watch "Reinforcement Learning for Trading Practical Examples and Lessons Learned by Dr. Tom Starke" on YouTube](https://youtu.be/c0gpgCyjTM8)<br>
 * [Online Portfolio Selection: A Survey BIN LI and STEVEN C. H. HOI, Nanyang Technological University, Singapore](https://arxiv.org/pdf/1212.2129.pdf)<br>
-* []()<br>
+* [2019:YT: Reinforcement Learning in the Presence of Nonstationary Variables with Simon Ouellette](https://youtu.be/OiVUONmhBxQ)<br>
 * []()<br>
 
 # RL
