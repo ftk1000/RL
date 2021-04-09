@@ -3,6 +3,9 @@
 * [Watch "Reinforcement Learning for Trading Practical Examples and Lessons Learned by Dr. Tom Starke" on YouTube](https://youtu.be/c0gpgCyjTM8)<br>
 * [Online Portfolio Selection: A Survey BIN LI and STEVEN C. H. HOI, Nanyang Technological University, Singapore](https://arxiv.org/pdf/1212.2129.pdf)<br>
 * [2019:YT: Reinforcement Learning in the Presence of Nonstationary Variables with Simon Ouellette](https://youtu.be/OiVUONmhBxQ)<br>
+* [2018:YT: The 7 Reasons Most Machine Learning Funds Fail Marcos Lopez de Prado from QuantCon 2018](https://youtu.be/BRUlSm4gdQ4)<br>
+* []()<br>
+* []()<br>
 * []()<br>
 
 # RL
