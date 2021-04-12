@@ -5,8 +5,10 @@
 * [2019:YT: Reinforcement Learning in the Presence of Nonstationary Variables with Simon Ouellette](https://youtu.be/OiVUONmhBxQ)<br>
 * [2018:YT: The 7 Reasons Most Machine Learning Funds Fail Marcos Lopez de Prado from QuantCon 2018](https://youtu.be/BRUlSm4gdQ4)<br>
 * []()<br>
-* []()<br>
-* []()<br>
+* []()<br
+
+# Trading
+* [Nick McCullum: 2020: Algorithmic Trading Using Python - Full Course](https://youtu.be/xfzGZB4HhEE)<br>
 
 # RL
 
